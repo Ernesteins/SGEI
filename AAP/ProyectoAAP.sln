@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoAAP", "ProyectoPropietarios\ProyectoAAP.csproj", "{7D00DDED-5294-441E-84C2-1055548F30C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D00DDED-5294-441E-84C2-1055548F30C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D00DDED-5294-441E-84C2-1055548F30C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D00DDED-5294-441E-84C2-1055548F30C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D00DDED-5294-441E-84C2-1055548F30C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C024975-B983-4F65-B9EB-9E22348040C0}
+	EndGlobalSection
+EndGlobal
