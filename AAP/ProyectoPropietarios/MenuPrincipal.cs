@@ -215,10 +215,14 @@ namespace ProyectoPropietarios
 
         private void manualDeUsuarioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process proc = new System.Diagnostics.Process();
+            /*System.Diagnostics.Process proc = new System.Diagnostics.Process();
             proc.StartInfo.FileName = "C:\\Users\\Ernesteins\\Desktop\\Manual de Usuario SGEI.pdf";
             proc.Start();
-            proc.Close();
+            proc.Close();*/
+            //sol alt
+            AcercaDe ad = new AcercaDe();
+            ad.Show();
+            this.Hide();
         }
 
         private void actualizarServiciosToolStripMenuItem_Click(object sender, EventArgs e)
